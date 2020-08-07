@@ -73,6 +73,7 @@ silhouette_score--eculidean	 0.3606266573120621
 silhouette_score--cosine	 0.5544331052391969
 
 # Result 
+<img width="819" alt="Screenshot 2020-08-07 at 12 55 13 PM" src="https://user-images.githubusercontent.com/62896459/89621006-3860d280-d8ae-11ea-934c-d95c38ac2148.png">
 
 
 
