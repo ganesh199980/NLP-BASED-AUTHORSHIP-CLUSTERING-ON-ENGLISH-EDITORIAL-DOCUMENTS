@@ -58,6 +58,8 @@ In this model as we give priority to precision we use F1-score .Therefore,β = 0
 
 Homogeneity metric of a cluster labeling given a ground truth. A clustering result satisfies homogeneity if all of its clusters contain only data points which are members of a single class.
 
+<img width="364" alt="Screenshot 2020-08-07 at 12 47 28 PM" src="https://user-images.githubusercontent.com/62896459/89620376-2fbbcc80-d8ad-11ea-9cea-df88fbbeee7f.png">
+
 
 Completeness  metric of a cluster labeling given a ground truth. A clustering result satisfies completeness if all the data points that are members of a given class are elements of the same cluster. This metric is independent of the absolute values of the labels: a permutation of the class or cluster label values won’t change the score value in any way
 
